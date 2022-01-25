@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](https://eshkim1021.github.io/PM-606-Final/)
+[Assessing Risk of Mortality in Californian Teachers](https://eshkim1021.github.io/PM-606-Final/)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
