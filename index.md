@@ -15,7 +15,7 @@
  -  Determine if the relationships found are statistically significant using a poisson regression model 
 
 <img src="images/map.jpeg?raw=true">
-[Interactive Plot](https://github.com/eshkim1021/eshkim1021.github.io/blob/master/images/map.html)
+[Interactive Plot](images/map.html)
 
 <!---
 ### Category Name 2
