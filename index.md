@@ -10,9 +10,9 @@
 ---
 [Exploratory Analysis of Covid-19 Deaths in the United States from February 2020 to August 2020](https://eshkim1021.github.io/PM-566-Final/)
 
- -  __Primary Objetive__: analyze the effect of population density on the number of deaths due to Covid-19 in each State in the US
- -  visualize the relationship between age, state, and population density on Covid-19 deaths
- -  determine if the relationships found are statistically significant using a poisson regression model 
+ -  __Primary Objetive__: Analyze the effect of population density on the number of deaths due to Covid-19 in each state in the US
+ -  Visualize the relationship between age, state, and population density on Covid-19 deaths
+ -  Determine if the relationships found are statistically significant using a poisson regression model 
 
 
 <!---
