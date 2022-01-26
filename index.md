@@ -6,8 +6,7 @@
  - __Primary Objective__: Analyze the effect of hospitalization data (diagnoses,co-morbidites, length of stay, etc.) and demographic factors on mortality rate
  - Build machine learning models to predict mortality after hospitalization 
  - Perform logsitic regression to quantify the effect of features on the short-term risk of death
-  <img src="images/map.jpeg?raw=true">
-[Interative Plot](https://github.com/eshkim1021/eshkim1021.github.io/blob/master/images/map.html)
+
 ---
 [Exploratory Analysis of Covid-19 Deaths in the United States from February 2020 to August 2020](https://eshkim1021.github.io/PM-566-Final/)
 
@@ -15,6 +14,8 @@
  -  Visualize the relationship between age, state, and population density on Covid-19 deaths
  -  Determine if the relationships found are statistically significant using a poisson regression model 
 
+<img src="images/map.jpeg?raw=true">
+[Interative Plot](https://github.com/eshkim1021/eshkim1021.github.io/blob/master/images/map.html)
 
 <!---
 ### Category Name 2
