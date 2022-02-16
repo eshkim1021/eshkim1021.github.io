@@ -10,8 +10,8 @@
 ---
 [Predicting Patient Mortality During Hospitalization]
 
--__Primary Objective__: Analyzed features such as patient demography, severity of disease, and comorbidities to predict inpatient mortality using the National Inpatient Sample (NIS) dataset
--Compared the effectiveness and accuracy of three different prediction models (logistic, random forest, LASSO) in determining patient mortality in hospitals throughout the United States. 
+ - __Primary Objective__: Analyzed features such as patient demography, severity of disease, and comorbidities to predict inpatient mortality using the National Inpatient Sample (NIS) dataset
+ - Compared the effectiveness and accuracy of three different prediction models (logistic, random forest, LASSO) in determining patient mortality in hospitals throughout the United States. 
 
 ---
 [Exploratory Analysis of Covid-19 Deaths in the United States from February 2020 to August 2020](https://eshkim1021.github.io/PM-566-Final/)
