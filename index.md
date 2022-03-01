@@ -8,7 +8,7 @@
  - Perform logsitic regression to quantify the effect of features on the short-term risk of death
 
 ---
-[Predicting Patient Mortality During Hospitalization](/master/index.pdf)
+[Predicting Patient Mortality During Hospitalization](/eshkim1021/PM-591-Final/blob/master/index.pdf)
 
  - __Primary Objective__: Analyzed features such as patient demography, severity of disease, and comorbidities to predict inpatient mortality using the National Inpatient Sample (NIS) dataset
  - Compared the effectiveness and accuracy of three different prediction models (logistic, random forest, LASSO) in determining patient mortality in hospitals throughout the United States. 
